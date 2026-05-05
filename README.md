@@ -156,10 +156,5 @@ Supports:
 ```text
 fraud-detection-system/
 │
-├── data/               # Raw & processed datasets
 ├── notebooks/          # EDA and training notebooks
-├── src/                # Core ML pipeline code
-├── models/             # Saved trained models
-├── reports/            # Visualizations & analysis
-├── docs/               # Documentation
 ├── README.md
